@@ -1,0 +1,31 @@
+.simple {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 80%;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.simple-item {
+    color: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    transition: 0.3s;
+}
+
+.simple-item:hover {
+    transition: 0.3s;
+    color: black;
+}

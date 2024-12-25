@@ -1,0 +1,73 @@
+.season {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    padding: 12px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.seasonss1 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.seasonss2 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.seasonss3 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.seasonss4 {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.season-item {
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.seasonss1 .dev {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.seasonss2 .dev {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+
+.seasonss3 .dev {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: orange;
+}
+
+.seasonss4 .dev {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: lightblue;
+}

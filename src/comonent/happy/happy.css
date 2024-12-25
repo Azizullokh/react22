@@ -1,0 +1,27 @@
+.happy {
+    background-image: url(./images/birthday.png);
+    background-size: 100% 200px;
+    width: 34%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+}
+
+h2 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    margin-top: 20px
+}

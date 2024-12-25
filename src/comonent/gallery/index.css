@@ -1,0 +1,17 @@
+.animal {
+    display: flex;
+    align-items: start;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 12px;
+    flex-direction: column;
+    width: 20%;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 650;
+    color: black;
+}

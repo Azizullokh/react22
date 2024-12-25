@@ -1,0 +1,57 @@
+.color {
+    display: flex;
+    align-items: start;
+    padding: 12px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    flex-direction: column;
+    gap: 6px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 25px;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    line-height: 23px;
+    color: grey;
+}
+
+.first div {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+}
+
+.second div {
+    width: 30px;
+    height: 30px;
+    background-color: green;
+}
+
+.third div {
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+}
+
+.fourth div {
+    width: 30px;
+    height: 30px;
+    background-color: yellow;
+}
+
+.fifth div {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(77, 0, 0);
+}
